@@ -8,12 +8,44 @@
 
 body{
     font-family: helvetica;
-    color: #777777;
+    color: #666666;
 }
 
 h2{
     font-family: Righteous;
-    text-transform: uppercase;
     letter-spacing: 3px;
-    color: #777777;
+    color: #666666;
+}
+
+#logo{
+    float: left;
+    font-size: 250%;
+}
+
+#menu{
+    font-size: 120%;
+    lists-style-type: none;
+    letter-spacing: 3px;
+}
+
+#logo, #menu{
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    margin-right: 40px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #666666;
+}
+
+.active{
+
 }
