@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+body{
+    font-family: helvetica;
+    color: #777777;
+}
+
+h2{
+    font-family: Righteous;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #777777;
+}
