@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+/*--------------------------------------------Colors*/
+
+.bg-color-name-title {
+     background-color: #f9eee2;
+}
+
+/*--------------------------------------------Heading*/
+
+header {
+     margin: 0;
+}
+
+body{
+   background-color: #E8E8E8;
+}
+
+.heading {
+     margin-left: 50px;
+}
+
+.logo1 {	      
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 360px; 
+}
+
+.name {
+     font-family: "Righteous", sans-serif;
+     
+     
+     margin-top: 50px;
+     color: #666666;
+ }
+
+.title {
+     font-family: "helvetica", sans-serif;
+     font-weight: 200;
+     font-size: 18px;
+     margin-top: 20px;
+     margin-bottom: 90px;
+     color: #666666;
+     margin-right: 50px;
+}
+
+ /* header */
+
+#logo{
+     float: left;
+     font-size: 250%;
+     margin-left: 40px;	      
+}
+
+#menu{
+     font-size: 150%;
+     lists-style-type: none
+     letter-spacing: 5px;
+     list-style:none;   
+     color: #666666;
+     font-family: "helvetica", sans-serif;
+}
+
+#logo, #menu{
+     line-height: 75px;
+}
+
+#menu li {
+     float: right;
+     margin-right: 40px;
+}
+
+#menu a {
+     text-decoration: none;
+     color: inherit;
+}
+	 
+#menu a:hover {
+     border-bottom: 1px solid #666666;
+}
+	 
+.active{
+     border-bottom: 1px solid #666666;
+}
+	 
+/* section 1 */
+	 
+#hero-outer{
+   height: 0px;
+   width: 100%;
+   overflow: hidden;
+   background-color: #f9eee2;
+}
+
+/* stress */
+
+.logo1 {
+     background: url("../images/stress.jpg");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 360px;
+}
+
+/* sport massage */
+	 
+.logo2 {
+     background: url("../images/sport.jpg");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 360px;
+}
+	 
+ /* pain management */
+
+.logo3 {
+     background: url("../images/pain.jpg");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 300px;
+}
+	 
+ /* benefits */
+
+#title{
+   text-align: center;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+
+h1, h2, h3, h4{
+     font-family: Righteous;
+     letter-spacing: 3px;
+     color: #666666;
+ }
+	 
+#benefits{
+   padding-top: 20px;
+   padding-bottom: 20px;
+ }
+	 
+ /* about me */
+	 
+.logo4 {
+     background: url("../images/aboutme.jpg");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 300px;
+ }
+ 
+  /* consult */
+
+.logo5 {
+     background: url("../images/consult.jpg");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 360px;
+}
+
+/* contact */
+
+.button{
+   background: #87ea55;
+   padding: 13px 29px;
+   border-radius:  15px;
+}
+
+.logo6 {
+     background: url("../images/contact.jpg");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     min-height: 360px;
+}
+
+form{
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+ /* footer */
+
+footer {
+     min-height: 75px;
+     margin: 0;
+     padding: 30px;
+     height: 75px;
+}
+
+.social-links {
+     padding-bottom: 15px;
+}
+
+.social-links li a i {
+     width: 150px;
+     padding: 15px;
+     font-size: 40px;
+     line-height: 7px;
+     text-align: center;
+}
