@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Righteous:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
 
 /*--------------------------------------------Colors*/
 
@@ -29,8 +29,6 @@ body{
 
 .name {
      font-family: "Righteous", sans-serif;
-     
-     
      margin-top: 50px;
      color: #666666;
  }
@@ -43,6 +41,10 @@ body{
      margin-bottom: 90px;
      color: #666666;
      margin-right: 50px;
+}
+
+.row{
+  background-color: #f9eee2;
 }
 
  /* header */
@@ -129,6 +131,7 @@ body{
    text-align: center;
    padding-top: 20px;
    padding-bottom: 20px;
+   
 }
 
 h1, h2, h3, h4{
@@ -139,7 +142,7 @@ h1, h2, h3, h4{
 	 
 #benefits{
    padding-top: 20px;
-   padding-bottom: 20px;
+   
  }
 	 
  /* about me */
