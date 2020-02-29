@@ -85,6 +85,12 @@ body{
 .active{
      border-bottom: 1px solid #666666;
 }
+
+@media only screen and (max-width: 1024px) {
+  #menu {
+   font-size: 100%; !important;
+}
+}
 	 
 /* section 1 */
 	 
@@ -192,19 +198,22 @@ footer {
      min-height: 75px;
      margin: 0;
      padding: 30px;
-     height: 75px;
+     height: 75px;   
+     width: 100%;
 }
 
 .social-links {
      padding-bottom: 15px;
+     width: 100%;
 }
 
 .social-links li a i {
-     width: 150px;
+     letter-spacing: 50px;
      padding: 15px;
      font-size: 40px;
      line-height: 7px;
      text-align: center;
+     width: 100%;
 }
 
 #footer-details{
