@@ -51,8 +51,11 @@ body{
 
 #logo{
      float: left;
-     font-size: 250%;
-     margin-left: 40px;	      
+     margin-left: 40px;	     
+}
+
+.navbar-brand{
+  font-size: 100%;
 }
 
 #menu{
@@ -68,6 +71,12 @@ body{
      line-height: 75px;
 }
 
+h1{
+     font-family: Righteous;
+     letter-spacing: 3px;
+     color: #666666;
+ }
+
 #menu li {
      float: right;
      margin-right: 40px;
@@ -76,7 +85,6 @@ body{
 #menu a {
      text-decoration: none;
      color: inherit;
-     float: right;
 }
 	 
 #menu a:hover {
@@ -85,24 +93,6 @@ body{
 	 
 .active{
      border-bottom: 1px solid #666666;
-}
-
-@media only screen and (max-width: 1024px) {
-  #menu {
-   font-size: 100%; 
-}
-}
-
-@media only screen and  (max-width: 770px) {
-  #logo {
-   font-size: 150%; 
-}
-}
-
-@media only screen and  (max-width: 650px) {
-  #menu li {
-   
-}
 }
 
 	 
@@ -154,7 +144,7 @@ body{
    
 }
 
-h1, h2, h3, h4{
+h2, h3, h4{
      font-family: Righteous;
      letter-spacing: 3px;
      color: #666666;
