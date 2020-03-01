@@ -76,6 +76,7 @@ body{
 #menu a {
      text-decoration: none;
      color: inherit;
+     float: right;
 }
 	 
 #menu a:hover {
@@ -88,9 +89,22 @@ body{
 
 @media only screen and (max-width: 1024px) {
   #menu {
-   font-size: 100%; !important;
+   font-size: 100%; 
 }
 }
+
+@media only screen and  (max-width: 770px) {
+  #logo {
+   font-size: 150%; 
+}
+}
+
+@media only screen and  (max-width: 650px) {
+  #menu li {
+   
+}
+}
+
 	 
 /* section 1 */
 	 
