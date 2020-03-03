@@ -18,26 +18,23 @@
   
     <header>
                 
-        
-        <nav class="navbar navbar-expand-lg navbar-dark">
-          <h1 id="logo"><a class="navbar-brand">Dog Massage Pluto</a></h1>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
-            <span class="navbar-toggler-icon"></span>
-          </button>
+          <nav class="navbar navbar-expand-lg navbar-light">
+            <h1 id="logo"><a class="navbar-brand">Dog Massage Pluto</a></h1>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
+              <span class="navbar-toggler-icon"></span>
+            </button>
 
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
-            <ul id="menu" class="navbar-nav ml-auto">
-                <li><a class="nav-link"href="#aboutmelink">About Me</a></li>
-                <li><a class="nav-link"href="#consultlink">Consult</a></li>
-                <li><a class="nav-link"href="#contactlink">Contact</a></li>
-            </ul>    
-        </nav>  
+              <ul id="menu" class="navbar-nav ml-auto">
+                  <li><a class="nav-link" href="#aboutmelink">About Me</a></li>
+                  <li><a class="nav-link" href="#consultlink">Consult</a></li>
+                  <li><a class="nav-link" href="#contactlink">Contact</a></li>
+              </ul>   
+            </div> 
+          </nav>  
     </header>
 
-
-  <section id="hero-outer">
-    </section>
     
     <section>
         <div class="row">          
@@ -107,7 +104,8 @@
            <div class="col-12 col-sm-4 col-md-4 col-lg-4 logo3"></div> 
         </div>
   </section>
-    <section id="title">
+
+    <section class="titles">
       <h2>All Benefits</h2>
     </section>
 
@@ -164,14 +162,9 @@
         </div>
 
 
-
-
-
-
-
-    <section id="title">
+    <section class="titles">
       <a id="aboutmelink"></a>
-      <h2>About Me</h2>
+            <h2>About Me</h2>
     </section>
 
 
@@ -198,7 +191,7 @@
 
 
 
-            <section id="title">
+            <section class="titles">
         <a id="consultlink"></a>
       <h2>Consult</h2>
       </section>
@@ -232,12 +225,8 @@
                           <p>
                             <br><br>
                             A consult takes about 60 minutes.<br>
-                            The consult can take place at my surgery <br>
-                            in Amsterdam or at your house.<br><br>
-                            Before the first consult you will receive a <br>
-                            registration form with some questions <br>
-                            about your dog. Mainly about the background, <br>
-                            condition, body- and behavior characteristics.<br>
+                            The consult can take place at my surgery in Amsterdam or at your house.<br>
+                            Before the first consult you will receive a registration form with some questions about your dog. Mainly about the background, condition, body- and behavior characteristics.<br>
                           </p>
                         </div>
                     </div>
@@ -249,7 +238,7 @@
   
 
 
-    <section id="title">
+    <section class="titles">
       <h2>Reviews</h2>
       </section>
 
@@ -259,9 +248,9 @@
                     <div class="col heading">
                         <div class="title">
                           <p>
-                            We did some sessions with our <br>fearful dog.
-                            She took the time for Charlie to <br>settle down and before we knew it <br>she was totally relaxed during the massage. <br><br>
-                            Lola with <br><br><br>
+                            We did some sessions with our fearful dog.<br>
+                            She took the time for Charlie to settle down and before we knew it she was totally relaxed during the massage. <br><br>
+                            Lola with 
                           </p>
                         </div>
                     </div>
@@ -272,9 +261,9 @@
                     <div class="col heading">
                         <div class="title">
                           <p>
-                              I experienced the massage <br>sessions with Boy as very positive.
-                              It was great to see how he <br>completely give himself over and <br>visibly enjoyed.
-                              After the massage Boy was <br>sleeping very relaxed.<br><br>
+                              I experienced the massage sessions with Boy as very positive.<br>
+                              It was great to see how he completely give himself over and visibly enjoyed.<br>
+                              After the massage Boy was sleeping very relaxed.<br><br>
                               Henriëtte with Boy 
                           </p>
                         </div>
@@ -286,8 +275,8 @@
                     <div class="col heading">
                         <div class="title">
                           <p>
-                            After two massage sessions i can <br>see changes in our dogs <br>behavior.<br><br>
-                            Lisa with Max <br><br><br><br>
+                            After two massage sessions i can see changes in our dogs behavior.<br><br>
+                            Lisa with Max
                           </p>
                         </div>
                     </div>
@@ -296,7 +285,7 @@
         </div>
 
 
-    <section id="title">
+    <section class="titles">
       <a id="contactlink"></a>
       <h2>Contact</h2>
       </section>
@@ -331,14 +320,27 @@
                           <form action="/action_page.php">
                             <label for="name"></label>
                             <input type="text" id="name" name="name" placeholder="Name" style="width:250px;"><br><br>
+                            <div class="valid-feedback"></div>
                             <label for="email"></label>
                             <input type="email" id="email" name="email" placeholder="Email" style="width:250px;"><br><br>
                             <label for="subject"></label>
                             <input type="text" id="subject" name="subject" placeholder="Subject" style="width:250px;"><br><br>
                             <label for="message"></label>
                             <textarea id="message" name="message" placeholder="Message" style="height: 100px; width:250px; "></textarea><br><br>
-                            <input type="button" class="button" value="Submit">
+                            <input type="button" class="button" value="Submit" data-toggle="modal" data-target="#myModal">
                           </form> 
+                            <div class="modal fade" id="myModal" role="dialog">
+                              <div class="modal-dialog">
+                                <div class="modal-content">
+                                  <div class="modal-header">
+                                    <p class="modal-title">Thank you for your message!</p>
+                                  </div>
+                                  <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                  </div>
+                                </div>
+                             </div>
+                          </div>
                         </div>
                     </div>
                 </div>
@@ -365,11 +367,12 @@
                     <li class="list-inline-item">
                         <a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square fa-3x"></i></a>
                     </li>
+                    <li class="list-inline-item">
+                        <a href="index.html"><i class="fas fa-home"></i></a>
+                    </li>
                   </ul>
               </div>
       </div>      
-            
-
   </footer>
 </body>
 </html>

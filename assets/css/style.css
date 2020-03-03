@@ -9,7 +9,7 @@
 /*--------------------------------------------Heading*/
 
 header {
-     margin: 0;
+    margin: 0;
 }
 
 body{
@@ -17,93 +17,97 @@ body{
 }
 
 .heading {
-     margin-left: 50px;
+   margin-left: 50px;
 }
 
 .logo1 {	      
-     background-position: center;
-     background-repeat: no-repeat;
-     background-size: cover;
-     min-height: 360px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px; 
 }
 
 .name {
-     font-family: "Righteous", sans-serif;
-     margin-top: 50px;
-     color: #666666;
+    font-family: "Righteous", sans-serif;
+    margin-top: 50px;
+    color: #666666;
  }
 
 .title {
-     font-family: "helvetica", sans-serif;
-     font-weight: 200;
-     font-size: 18px;
-     margin-top: 20px;
-     margin-bottom: 40px;
-     color: #666666;
-     margin-right: 50px;
+    font-family: "helvetica", sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #666666;
+    margin-right: 50px;
 }
 
 .row{
-  background-color: #f9eee2;
+    background-color: #f9eee2;
 }
 
  /* header */
 
 #logo{
-     float: left;
-     margin-left: 40px;	     
+    float: left;
+    margin-left: 40px;	     
 }
 
 .navbar-brand{
-  font-size: 100%;
+    font-size: 100%;
 }
 
 #menu{
-     font-size: 150%;
-     lists-style-type: none
-     letter-spacing: 5px;
-     list-style:none;   
-     color: #666666;
-     font-family: "helvetica", sans-serif;
+    font-size: 150%;
+    list-style-type: none;
+    letter-spacing: 5px;
+    list-style:none;   
+    color: #666666;
+    font-family: "helvetica", sans-serif;
 }
 
 #logo, #menu{
-     line-height: 75px;
+    line-height: 75px;
 }
 
 h1{
-     font-family: Righteous;
-     letter-spacing: 3px;
-     color: #666666;
+    font-family: Righteous;
+    letter-spacing: 3px;
+    color: #666666;
  }
 
 #menu li {
-     float: right;
-     margin-right: 40px;
+    float: right;
+    margin-right: 40px;
 }
 
 #menu a {
-     text-decoration: none;
-     color: inherit;
+    text-decoration: none;
+    color: inherit;
 }
 	 
 #menu a:hover {
-     border-bottom: 1px solid #666666;
+    border-bottom: 1px solid #666666;
 }
 	 
 .active{
      border-bottom: 1px solid #666666;
 }
 
-	 
-/* section 1 */
-	 
-#hero-outer{
-   height: 0px;
-   width: 100%;
-   overflow: hidden;
-   background-color: #f9eee2;
+@media only screen and (max-width: 600px) {
+  .navbar-brand {
+    font-size: 70%;
+  }
 }
+
+@media only screen and (max-width: 600px) {
+  #menu {
+    font-size: 100%;
+    line-height: 30px;
+  }
+}
+
 
 /* stress */
 
@@ -137,12 +141,14 @@ h1{
 	 
  /* benefits */
 
-#title{
-   text-align: center;
-   padding-top: 20px;
-   padding-bottom: 20px;
-   
+.titles{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center; 
+    background-color: #E8E8E8;  
 }
+
+
 
 h2, h3, h4{
      font-family: Righteous;
@@ -151,8 +157,7 @@ h2, h3, h4{
  }
 	 
 #benefits{
-   padding-top: 20px;
-   
+     padding-top: 20px;
  }
 	 
  /* about me */
@@ -164,6 +169,8 @@ h2, h3, h4{
      background-size: cover;
      min-height: 300px;
  }
+
+
  
   /* consult */
 
@@ -178,10 +185,10 @@ h2, h3, h4{
 /* contact */
 
 .button{
-   background: #87ea55;
-   padding: 13px 29px;
-   border-radius:  15px;
-}
+    background: #87ea55;
+    padding: 13px 29px;
+    border-radius:  15px;
+  }
 
 .logo6 {
      background: url("../images/contact.jpg");
@@ -192,8 +199,8 @@ h2, h3, h4{
 }
 
 form{
-  padding-bottom: 10px;
-  padding-top: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
  /* footer */
