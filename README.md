@@ -109,15 +109,22 @@ In small size the navbar is collapsible and there are less images for less scrol
 This website is a scrollable website with all the information on one page.
 
 The header is responsive to large and small devices. On large devices the title and full menu will be shown, while on small devices the title and a collapsible menu will be shown.
+
 The menu links will are internal links and will lead to the right part on the website. 
+
 The contact form has required attributes which are needed before submitting the form.
+
 In the footer will be found the social media links, which are external links.
+
 The home button, will lead to the top of the website.
+
 On small devices some pictures are gone for a more friendly to use website. There will also appear a collapsible menu with the internal links. Each row will be shown vertical instead of horizontal, form better readability.
+
 Tested multiple browser’s (chrome, safari, internet explorer, firefox) & mobile devices (….)
 
 # Deployment
 I started working on this project in Repl.it because I worked on it from different devices. Every time I was on my own laptop I copied everything to GitPod and pushed it to GitHub. Like this I also always had a backup, when needed. 
+
 This website starts with the: index.html, followed by the map ‘assets’, with a map of ‘images’ and a map of ‘css’. In the ’css’ map you will find the page: style.css.
 
 # Credits
