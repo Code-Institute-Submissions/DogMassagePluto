@@ -1,53 +1,31 @@
 @import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
 
-/*--------------------------------------------Colors*/
+/* common */
 
 .bg-color-name-title {
      background-color: #f9eee2;
 }
 
-/*--------------------------------------------Heading*/
+body{
+   background-color: white;
+   padding-top: 109px;
+}
+
+
+ h1, h2, h3, h4, h5{
+     font-family: Righteous;
+     letter-spacing: 3px;
+     color: #666666;
+ }
+
+/* header */
 
 header {
     margin: 0;
+    background-color: #E8E8E8;
+    width: 100%;
+    top: 0;
 }
-
-body{
-   background-color: #E8E8E8;
-}
-
-.heading {
-   margin-left: 50px;
-}
-
-.logo1 {	      
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 360px; 
-}
-
-.name {
-    font-family: "Righteous", sans-serif;
-    margin-top: 50px;
-    color: #666666;
- }
-
-.title {
-    font-family: "helvetica", sans-serif;
-    font-weight: 200;
-    font-size: 18px;
-    margin-top: 20px;
-    margin-bottom: 40px;
-    color: #666666;
-    margin-right: 50px;
-}
-
-.row{
-    background-color: #f9eee2;
-}
-
- /* header */
 
 #logo{
     float: left;
@@ -70,12 +48,6 @@ body{
 #logo, #menu{
     line-height: 75px;
 }
-
-h1{
-    font-family: Righteous;
-    letter-spacing: 3px;
-    color: #666666;
- }
 
 #menu li {
     float: right;
@@ -108,8 +80,39 @@ h1{
   }
 }
 
+/* body common */
 
-/* stress */
+
+.heading {
+   margin-left: 50px;
+}
+
+.name {
+    font-family: "Righteous", sans-serif;
+    margin-top: 50px;
+    color: #666666;
+ }
+
+.title {
+    font-family: "helvetica", sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #666666;
+    margin-right: 50px;
+}
+
+#titles{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center; 
+    background-color: #E8E8E8;   
+}
+
+
+
+/* massages */
 
 .logo1 {
      background: url("../images/stress.jpg");
@@ -118,8 +121,6 @@ h1{
      background-size: cover;
      min-height: 360px;
 }
-
-/* sport massage */
 	 
 .logo2 {
      background: url("../images/sport.jpg");
@@ -128,39 +129,26 @@ h1{
      background-size: cover;
      min-height: 360px;
 }
-	 
- /* pain management */
 
 .logo3 {
      background: url("../images/pain.jpg");
      background-position: center;
      background-repeat: no-repeat;
      background-size: cover;
-     min-height: 300px;
+     min-height: 250px;
 }
 	 
  /* benefits */
 
-.titles{
-    padding-top: 20px;
-    padding-bottom: 20px;
-    text-align: center; 
-    background-color: #E8E8E8;  
-}
-
-
-
-h2, h3, h4{
-     font-family: Righteous;
-     letter-spacing: 3px;
-     color: #666666;
- }
-	 
 #benefits{
-     padding-top: 20px;
+    padding-top: 100px;
  }
 	 
  /* about me */
+
+#aboutme{
+     padding-top: 100px;
+ }
 	 
 .logo4 {
      background: url("../images/aboutme.jpg");
@@ -170,9 +158,11 @@ h2, h3, h4{
      min-height: 300px;
  }
 
-
- 
   /* consult */
+
+#consult{
+     padding-top: 100px;
+ }
 
 .logo5 {
      background: url("../images/consult.jpg");
@@ -182,7 +172,22 @@ h2, h3, h4{
      min-height: 360px;
 }
 
+/* reviews */
+
+#reviews{
+     padding-top: 100px;
+ }
+
 /* contact */
+
+#contact{
+     padding-top: 100px;
+     padding-bottom: 30px;
+ }
+
+#contact-text{
+  height: 400px;
+}
 
 .button{
     background: #87ea55;
@@ -229,4 +234,5 @@ footer {
 
 #footer-details{
     background-color: #E8E8E8;
+    padding-top: 30px;
 }
