@@ -5,7 +5,7 @@ Read about the sorts of dog massages available and it’s benefits, my story and
 
 ## Demo 
 
-Website demo available [here] (https://github.com/kimkesdev/DogMassagePluto).
+Website demo available <a href="https://github.com/kimkesdev/DogMassagePluto">here</a>.
 
 # UX
 This website is designed for dog-owners who want to improve their dog’s health.
@@ -70,7 +70,14 @@ Section color = Ef9EEE2 (light yellow).
 
 Text color = E666666 (dark grey).
 
-Wireframes !!!!!!
+## Mockups & Wireframes
+The following wireframes were created using Balsamiq to design the website layout options:
+<ul>
+    <li><a href="https://github.com/kimkesdev/DogMassagePluto/blob/master/mockups/Wireframes%20Mobile%20Dog%20Massage%20Pluto.pdf">Mobile display</a>
+    <li><a href="https://github.com/kimkesdev/DogMassagePluto/blob/master/mockups/Wireframes%20Ipad%20Dog%20Massage%20Pluto.pdf">IPad display</a>
+    <li><a href="https://github.com/kimkesdev/DogMassagePluto/blob/master/mockups/Wireframes%20Laptop%20Dog%20Massage%20Pluto.pdf">Laptop display</a>
+</ul>
+
 
 ## Features
 I wanted to create a simple and friendly website, with all the information on one page. 
