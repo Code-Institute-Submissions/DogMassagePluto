@@ -11,11 +11,11 @@ Website demo available <a href="https://github.com/kimkesdev/DogMassagePluto">he
 This website is designed for dog-owners who want to improve their dog’s health.
 
 ## User story 
-⦁	Owner of an old dog which is walking difficult because of stiff muscles in his legs.  After a few sessions the dog is walking more flexible again.
-
-⦁	Owner of a stressed dog when seeing other dogs. Keeping  another relaxed dog in the room and the stressed dog will slowly start to relax during a relaxation massage.
-
-⦁	Sportive person with a sportive dog. Helping the muscles with a faster recovery during sport massage.
+<ul>
+    <li>Owner of an old dog which is walking difficult because of stiff muscles in his legs.  After a few sessions the dog is walking more flexible again.
+    <li>Owner of a stressed dog when seeing other dogs. Keeping  another relaxed dog in the room and the stressed dog will slowly start to relax during a relaxation massage.
+    <li>Sportive person with a sportive dog. Helping the muscles with a faster recovery during sport massage.
+</ul>
 
 ## Strategy
 The goal for this website is to show dog-owners how they can improve their dog’s health through dog massage and with which type of massage their dog can benefit.
@@ -92,25 +92,25 @@ In small size the navbar is collapsible and there are less images for less scrol
 # Technologies 
 
 ## Languages
-⦁	HTML
-
-⦁	CSS
+<ul>
+    <li>HTML
+    <li>CSS
+</ul>
 
 ## Frameworks / Tools / Libraries
-⦁	Balsamiq, https://balsamiq.com/ for the mockups.
-
-⦁	Bootstrap, https://getbootstrap.com/ for the collapsible navbar en the footer icons.
-
-⦁	Google Fonts, https://fonts.google.com/ for the font type Righteous.
+<ul>
+    <li><a href="https://balsamiq.com/">Balsamiq</a> for the mockups.
+    <li><a href="https://getbootstrap.com/">Bootstrap</a> for the collapsible navbar en the footer icons.
+    <li><a href="https://fonts.google.com/">Google Fonts</a> for the font type Righteous.
+</ul>
 
 ## Testing
-⦁	HTML Validator, https://validator.w3.org/ for testing the HTML code.
-
-⦁	CSS Validator, https://jigsaw.w3.org/css-validator/ for testing the CSS code.
-
-⦁	Autoprefixer
-
-⦁	Google Chrome Developer Tools
+<ul>
+    <li><a href="https://validator.w3.org/">HTML Validator</a> for testing the HTML code.
+    <li><a href="https://jigsaw.w3.org/css-validator/">CSS Validator</a> for testing the CSS code.
+    <li>Autoprefixer
+    <li>Google Chrome Developer Tools
+</ul>
 
 ## Testing
 This website is a scrollable website with all the information on one page.
@@ -137,10 +137,10 @@ This website starts with the: index.html, followed by the map ‘assets’, with
 # Credits
 
 ## Content
-⦁	The full content is made up and written by me.
+The full content is made up and written by me.
 
 ## Media
-⦁	The photos used in this website were obtained from https://www.istockphoto.com/nl.
+The photos used in this website were obtained from <a href="https://www.istockphoto.com/nl">istockphoto</a>.
 
 ## Acknowledgements
-⦁	I used a lot of general knowledge form ⦁	https://www.w3schools.com.
+I used a lot of general knowledge from <a href="https://www.w3schools.com">w3schools</a>.
