@@ -3,9 +3,9 @@
 The website for dog-lovers, who want the best for their dog. Who doesn’t want a stressless and painless dog? 
 Read about the sorts of dog massages available and it’s benefits, my story and other customers stories.
 
-Link to the website: https://kimkesdev.github.io/DogMassagePluto/
+## Demo 
 
-Link to my github: https://github.com/kimkesdev/DogMassagePluto
+Website demo available [here] (https://github.com/kimkesdev/DogMassagePluto).
 
 # UX
 This website is designed for dog-owners who want to improve their dog’s health.
