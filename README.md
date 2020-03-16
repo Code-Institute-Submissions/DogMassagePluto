@@ -1,16 +1,24 @@
 # Dog Massage Pluto
+This website is designed for dog-owners who want to improve their dog’s health and for who wants to know more about dog massage. Read about the sorts of dog massages available, it’s benefits, my story, client stories, more information about the consult, the contact details and a contact form.
 
-The website for dog-lovers, who want the best for their dog. Who doesn’t want a stressless and painless dog? 
-Read about the sorts of dog massages available and it’s benefits, my story and other customers stories.
+This website consists of the following sections:
+<ol>
+    <li><strong>Home</strong> – this section provides the reader information about the sorts of dog massages that are given.
+    <li><strong>All Benefits</strong> – this section provides all the massage benefits.
+    <li><strong>About Me</strong> – this section tells a little bit of my story.
+    <li><strong>Consult</strong> – this section provides all the information about a consult.
+    <li><strong>Reviews</strong> – this section shows some reviews of previous clients.
+    <li><strong>Contact</strong> – this section provides al the contact details and a contact form.
+</ol>
 
 ## Demo 
-
 Website demo available <a href="https://github.com/kimkesdev/DogMassagePluto">here</a>.
 
-# UX
-This website is designed for dog-owners who want to improve their dog’s health.
+# UX Design
+I wanted to create a simple and friendly website with light colours.
+With all the information on one page, so that it becomes a scrollable website.
 
-## User story 
+## User Story 
 <ul>
     <li>Owner of an old dog which is walking difficult because of stiff muscles in his legs.  After a few sessions the dog is walking more flexible again.
     <li>Owner of a stressed dog when seeing other dogs. Keeping  another relaxed dog in the room and the stressed dog will slowly start to relax during a relaxation massage.
@@ -18,7 +26,7 @@ This website is designed for dog-owners who want to improve their dog’s health
 </ul>
 
 ## Strategy
-The goal for this website is to show dog-owners how they can improve their dog’s health through dog massage and with which type of massage their dog can benefit.
+The goal for this website is to show how a dog’s health can be improved through massage.
 
 ## Scope
 Massage types, all benefits, about me, consult, contact and social media links.
@@ -28,36 +36,29 @@ Header with title and a menu.
 Types of massage with its benefits and a list with all benefits.
 An ‘about me’ section with a little bit about my working life.
 A section with information about a consult.
-A ‘review’ section with some reviews of happy dog-owners who’s dog had a massage session.
+A section with some reviews of happy dog-owners who’s dog had a massage session.
 A section with all the contact details and a contact form.
-The footer will provide my social media links and a home button.
+The footer will provide the social media links.
 
 ## Skeleton
-Header: light grey background. Left the title, right the menu.
+<ul>
+    <li>Header: light grey background. Left the title, right the menu.
+    <li>Massage types: soft yellow background, each section with an image next to the text, text starting left on the first section, each type op massage has the opposite text-image combination.
+    <li>Title all benefits: light grey background, float in the centre. <br>
+    Text all benefits: soft yellow background, three rows with benefits.
+    <li>Title about me: light grey background, float in the centre. <br>
+    Text about me: soft yellow background, text left, image right.
+    <li>Title consult: light grey background, flout in the centre. <br>
+    Text consult: soft yellow background, text right, image left, opposite of the above.
+    <li>Title reviews: light grey background, float in the centre.<br>
+    Text reviews: soft yellow background, three rows with reviews.
+    <li>Title contact: light grey background, float in the centre.<br>
+    Text contact: soft yellow background, three rows with information. <br>
+    Right section: contact information, centre section: contact form, right section: image.
 
-Massage types: soft yellow background, each section with an image next to the text, text starting left on the first section, each type op massage has the opposite text-image combination.  
-
-Title all benefits: light grey background, floot in the center.
-
-Text all benefits: soft yellow background, three rows with benefits.
-
-Title about me: light grey background, floot in the center.
-
-Text about me: soft yellow background, text left, image right.
-
-Title consult: light grey background, floot in the center.
-
-Text consult: soft yellow background, text right, image left, opposite of the above.
-
-Title reviews: light grey background, floot in the center.
-
-Text reviews: soft yellow background, three rows with reviews.
-
-Title contact: light grey background, floot in the center.
-
-Text contact: soft yellow background, three rows with information. Right section: contact information, center section: contact form, right section: image.
-
-All title font: same font family, all text font: same font family. Font and text color: dark grey.
+    <li>All title font: same font family
+    <li>All text font: same font family
+    <li>Font and text colour: dark grey
 
 ## Surface
 Titles font family: Righteous.
