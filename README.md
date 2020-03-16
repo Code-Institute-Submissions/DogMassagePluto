@@ -15,8 +15,7 @@ This website consists of the following sections:
 Website demo available <a href="https://github.com/kimkesdev/DogMassagePluto">here</a>.
 
 # UX Design
-I wanted to create a simple and friendly website with light colours.
-With all the information on one page, so that it becomes a scrollable website.
+I wanted to create a simple and friendly website with light colours and with all the information on one page, so that it becomes a scrollable website.
 
 ## User Story 
 <ul>
@@ -32,44 +31,46 @@ The goal for this website is to show how a dog’s health can be improved throug
 Massage types, all benefits, about me, consult, contact and social media links.
 
 ## Structure
-Header with title and a menu.
-Types of massage with its benefits and a list with all benefits.
-An ‘about me’ section with a little bit about my working life.
-A section with information about a consult.
-A section with some reviews of happy dog-owners who’s dog had a massage session.
-A section with all the contact details and a contact form.
-The footer will provide the social media links.
+<ul>
+    <li><u>Header</u> with title and a menu.
+    <li><u>Types of massage</u> with its benefits and a list with all benefits.
+    <li>An <u>‘about me’</u> section with a little bit about my working life.
+    <li>A section with information about a <u>consult</u>.
+    <li>A section with some <u>reviews</u> of happy dog-owners who’s dog had a massage session.
+    <li>A section with all the <u>contact</u> details and a contact form.
+    <li>The <u>footer</u> will provide the social media links.
+</ul>
 
 ## Skeleton
 <ul>
-    <li>Header: light grey background. Left the title, right the menu.
-    <li>Massage types: soft yellow background, each section with an image next to the text, text starting left on the first section, each type op massage has the opposite text-image combination.
-    <li>Title all benefits: light grey background, float in the centre. <br>
+    <li><u>Header</u>: light grey background. Left the title, right the menu.
+    <li><u>Massage types</u>: soft yellow background, each section with an image next to the text, text starting left on the first section, each type op massage has the opposite text-image combination.
+    <li>Title <u>all benefits</u>: light grey background, float in the centre. <br>
     Text all benefits: soft yellow background, three rows with benefits.
-    <li>Title about me: light grey background, float in the centre. <br>
+    <li>Title <u>about me</u>: light grey background, float in the centre. <br>
     Text about me: soft yellow background, text left, image right.
-    <li>Title consult: light grey background, flout in the centre. <br>
+    <li>Title <u>consult</u>: light grey background, flout in the centre. <br>
     Text consult: soft yellow background, text right, image left, opposite of the above.
-    <li>Title reviews: light grey background, float in the centre.<br>
+    <li>Title <u>reviews</u>: light grey background, float in the centre.<br>
     Text reviews: soft yellow background, three rows with reviews.
-    <li>Title contact: light grey background, float in the centre.<br>
+    <li>Title <u>contact</u>: light grey background, float in the centre.<br>
     Text contact: soft yellow background, three rows with information. <br>
     Right section: contact information, centre section: contact form, right section: image.
-
+</ul>
+<ul>
     <li>All title font: same font family
     <li>All text font: same font family
     <li>Font and text colour: dark grey
+</ul>
 
 ## Surface
-Titles font family: Righteous.
-
-Text font family: Helvetica.
-
-Header, titles and footer section color = #E8E8E8 (light grey).
-
-Section color = Ef9EEE2 (light yellow).
-
-Text color = E666666 (dark grey).
+<ul>
+    <li>Titles font family: Righteous.
+    <li>Text font family: Helvetica.
+    <li>Header, titles and footer section color = #E8E8E8 (light grey).
+    <li>Section color = Ef9EEE2 (light yellow).
+    <li>Text color = E666666 (dark grey).
+</ul>
 
 ## Mockups & Wireframes
 The following wireframes were created using Balsamiq to design the website layout options:
