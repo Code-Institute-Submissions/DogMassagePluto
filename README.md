@@ -12,7 +12,7 @@ This website consists of the following sections:
 </ol>
 
 ## Demo 
-Website demo available <a href="https://github.com/kimkesdev/DogMassagePluto">here</a>.
+Website demo available <a href="https://kimkesdev.github.io/DogMassagePluto">here</a>.
 
 # UX Design
 I wanted to create a simple and friendly website with light colours and with all the information on one page, so that it becomes a scrollable website.
