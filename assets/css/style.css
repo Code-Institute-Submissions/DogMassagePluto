@@ -29,8 +29,8 @@ header {
 
 #logo{
     float: left;
-    margin-left: 40px;	     
-
+    margin-left: 40px;	  
+    color: #666666;
 }
 
 .navbar-brand{
@@ -87,7 +87,9 @@ header {
     width: 20px;
     padding: 20px;
   }
+  
 }
+
 
 /* body common */
 
@@ -152,6 +154,10 @@ header {
 #benefits{
     padding-top: 100px;
  }
+
+#benefits-height{
+  height: 350px;
+}
 	 
  /* about me */
 
@@ -173,6 +179,10 @@ header {
      padding-top: 100px;
  }
 
+#consult-height{
+  height: 360px;
+}
+
 .logo5 {
      background: url("../images/consult.jpg");
      background-position: center;
@@ -187,6 +197,10 @@ header {
      padding-top: 100px;
  }
 
+ #review-hight{
+   height: 300px;
+ }
+
 /* contact */
 
 #contact{
@@ -195,7 +209,7 @@ header {
  }
 
 #contact-text{
-  height: 400px;
+  height: 500px;
 }
 
 .button{

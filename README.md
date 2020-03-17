@@ -17,12 +17,15 @@ Website demo available <a href="https://github.com/kimkesdev/DogMassagePluto">he
 # UX Design
 I wanted to create a simple and friendly website with light colours and with all the information on one page, so that it becomes a scrollable website.
 
-## User Story 
-<ul>
-    <li>Owner of an old dog which is walking difficult because of stiff muscles in his legs.  After a few sessions the dog is walking more flexible again.
-    <li>Owner of a stressed dog when seeing other dogs. Keeping  another relaxed dog in the room and the stressed dog will slowly start to relax during a relaxation massage.
-    <li>Sportive person with a sportive dog. Helping the muscles with a faster recovery during sport massage.
-</ul>
+## User Stories
+<strong>User Story 1:</strong> Owner of an old dog with stiff muscles in his legs, who would like to know what he can do for his dog to make the less stiff.<br>
+<strong>User Story 2:</strong> Owner of a stressed dog when seeing other dogs, who wants to know how to ease the tension of his dog.<br>
+<strong>User Story 3:</strong> A sportive person with a sportive dog, want to know how he can help his dog with a faster recovery of the muscles.<br>
+<strong>User Story 4:</strong> Owner of a dog with pain after a accident, what can be done to relieve the pain.<br>
+<strong>User Story 5:</strong> Owner of a dog who is afraid of people, how massage can help the dog to be less anxious.<br>
+<strong>User Story 6:</strong> Owner of a dog with  arthritis, how massage can release tension.<br>
+<strong>User Story 7:</strong> Owner of a senior dog, who wants to reduce the need of medicine.<br>
+
 
 ## Strategy
 The goal for this website is to show how a dog’s health can be improved through massage.
