@@ -75,8 +75,8 @@ Massage types, all benefits, about me, consult, contact and social media links.
     <li>Text color = E666666 (dark grey).
 </ul>
 
-![Grey](https://github.com/kimkesdev/DogMassagePluto/tree/master/screenshots/grey.png?raw=true)
-![Yellow](https://github.com/kimkesdev/DogMassagePluto/tree/master/screenshots/yellow.png?raw=true)
+![Grey](screenshots/grey.png)
+![Yellow](screenshots/yellow.png)
 
 ## Mockups & Wireframes
 The following wireframes were created using Balsamiq to design the website layout options:
