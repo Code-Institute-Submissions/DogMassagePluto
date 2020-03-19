@@ -75,8 +75,8 @@ Massage types, all benefits, about me, consult, contact and social media links.
     <li>Text color = E666666 (dark grey).
 </ul>
 
-![Grey](screenshots/grey.png)
-![Yellow](screenshots/yellow.png)
+![Grey](screenshots/grey.png | width=100)
+![Yellow](screenshots/yellow.png | width=100)
 
 ## Mockups & Wireframes
 The following wireframes were created using Balsamiq to design the website layout options:
