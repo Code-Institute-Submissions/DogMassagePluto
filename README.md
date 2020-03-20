@@ -11,10 +11,10 @@ This website consists of the following sections:
     <li><strong>Contact</strong> – this section provides al the contact details and a contact form.
 </ol>
 
-![Dog Massage Pluto Demo](screenshots/tablet-screen.gif)
-
 ## Demo 
 Website demo available <a href="https://kimkesdev.github.io/DogMassagePluto">here</a>.
+
+![Dog Massage Pluto Demo](screenshots/demo.gif)
 
 # UX Design
 I wanted to create a simple and friendly website with light colours and with all the information on one page, so that it becomes a scrollable website.
