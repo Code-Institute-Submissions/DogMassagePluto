@@ -45,35 +45,35 @@ Massage types, all benefits, about me, consult, contact and social media links.
 
 ## Structure
 <ul>
-    <li><u>Header</u> with title and a menu.
-    <li><u>Types of massage</u> with its benefits and a list with all benefits.
-    <li>An <u>‘about me’</u> section with a little bit about my working life.
-    <li>A section with information about a <u>consult</u>.
-    <li>A section with some <u>reviews</u> of happy dog-owners who’s dog had a massage session.
-    <li>A section with all the <u>contact</u> details and a contact form.
-    <li>The <u>footer</u> will provide the social media links.
+    <li><strong>Header</strong> with title and a menu.
+    <li><strong>Types of massage</strong> with its benefits and a list with all benefits.
+    <li>An <strong>‘about me’</strong> section with a little bit about my working life.
+    <li>A section with information about a <strong>consult</strong>.
+    <li>A section with some <strong>reviews</strong> of happy dog-owners who’s dog had a massage session.
+    <li>A section with all the <strong>contact</strong> details and a contact form.
+    <li>The <strong>footer</strong> will provide the social media links.
 </ul>
 
 ## Skeleton
 <ul>
-    <li><u>Header</u>: light grey background. Left the title, right the menu.
-    <li><u>Massage types</u>: soft yellow background, each section with an image next to the text, text starting left on the first section, each type op massage has the opposite text-image combination.<br>
-    <li>Title <u>all benefits</u>: light grey background, float in the centre. <br>
+    <li><strong>Header</strong>: light grey background. Left the title, right the menu.
+    <li><strong>Massage types</strong>: soft yellow background, each section with an image next to the text, text starting left on the first section, each type op massage has the opposite text-image combination.<br>
+    <li>Title <strong>all benefits</strong>: light grey background, float in the centre. <br>
     Text all benefits: soft yellow background, three rows with benefits.
-    <li>Title <u>about me</u>: light grey background, float in the centre. <br>
+    <li>Title <strong>about me</strong>: light grey background, float in the centre. <br>
     Text about me: soft yellow background, text left, image right.
-    <li>Title <u>consult</u>: light grey background, flout in the centre. <br>
+    <li>Title <strong>consult</strong>: light grey background, flout in the centre. <br>
     Text consult: soft yellow background, text right, image left, opposite of the above.
-    <li>Title <u>reviews</u>: light grey background, float in the centre.<br>
+    <li>Title <strong>reviews</strong>: light grey background, float in the centre.<br>
     Text reviews: soft yellow background, three rows with reviews.
-    <li>Title <u>contact</u>: light grey background, float in the centre.<br>
+    <li>Title <strong>contact</strong>: light grey background, float in the centre.<br>
     Text contact: soft yellow background, three rows with information. <br>
     Right section: contact information, centre section: contact form, right section: image.
 </ul>
 <ul>
-    <li>All title font: same font family<br>
-    <li>All text font: same font family<br>
-    <li>Font and text colour: dark grey<br>
+    <li>All title font: same font family
+    <li>All text font: same font family
+    <li>Font and text colour: dark grey
 </ul>
 
 ## Surface
@@ -99,10 +99,10 @@ The following wireframes were created using Balsamiq to design the website layou
 ## Features
 The webpage consists of the following features:
 <ul>
-    <li><strong>Navbar</strong> - The navbar stays collapsed on small and medium devices and Bootstrap bar icon is used. The navbar contains links to associated pages: About Me, Consult and Contact
+    <li><strong>Navbar</strong> - The navbar stays collapsed on small and medium devices and Bootstrap bar icon is used. <br>The navbar contains links to associated pages: About Me, Consult and Contact
     <li><strong>Button</strong> - The contactform uses a Bootstrap button
     <li><strong>Social</strong> media icons - This project uses Bootstrap icons for social media
-    <li><strong>Contact form</strong> - The project uses Bootstrap form features. The form requires to provide first and last name, email address, phone number and message
+    <li><strong>Contact form</strong> - The project uses Bootstrap form features. <br>The form requires to provide first and last name, email address, phone number and message
     <li><strong>Footer</strong> - simple footer containing links to social media accounts and copyrights
 </ul>
 
@@ -125,31 +125,36 @@ The webpage consists of the following features:
 <ul>
     <li><a href="https://validator.w3.org/">HTML Validator</a> for testing the HTML code.
     <li><a href="https://jigsaw.w3.org/css-validator/">CSS Validator</a> for testing the CSS code.
-    <li>Autoprefixer
-    <li>Google Chrome Developer Tools
+    <li>Google Chrome Developer Tools for testing different size devices.
 </ul>
 
 ## Testing
-This website is a scrollable website with all the information on one page.
 
-The header is responsive to large and small devices. On large devices the title and full menu will be shown, while on small devices the title and a collapsible menu will be shown.
-
-The menu links will are internal links and will lead to the right part on the website. 
-
-The contact form has required attributes which are needed before submitting the form.
-
-In the footer will be found the social media links, which are external links.
-
-The home button, will lead to the top of the website.
-
-On small devices some pictures are gone for a more friendly to use website. There will also appear a collapsible menu with the internal links. Each row will be shown vertical instead of horizontal, form better readability.
-
-Tested multiple browser’s (chrome, safari, internet explorer, firefox) & mobile devices (….)
+The header is responsive to small, medium and large devices. <br>
+On large devices the title and full menu will be shown, <br>
+while on small and medium devices the title and a collapsible menu will be shown.<br>
+<br>
+The menu links are internal links and will lead to the right part on the website.<br> 
+<br>
+The contact form has required attributes which are needed before submitting the form.<br>
+<br>
+In the footer will be found the social media links, which are external links.<br>
+<br>
+The company name on the fixed header, will lead to the top of the website.<br>
+<br>
+On small devices some pictures are gone for a more user friendly website. <br>
+Each row will be shown vertical instead of horizontal, for better readability.<br>
+<br>
+Tested multiple browser’s (Edge, Chrome, Safari, Internet Explorer, Firefox).<br> 
+And tested multiple small and medium devices (….)
 
 # Deployment
-I started working on this project in Repl.it because I worked on it from different devices. Every time I was on my own laptop I copied everything to GitPod and pushed it to GitHub. Like this I also always had a backup, when needed. 
-
-This website starts with the: index.html, followed by the map ‘assets’, with a map of ‘images’ and a map of ‘css’. In the ’css’ map you will find the page: style.css.
+I started working on this project in Repl.it because I worked on it from different devices. <br>
+Every time I was on my own laptop I copied everything to GitPod and pushed it to GitHub. <br>
+Like this I also always had an extra backup, when needed. <br>
+<br>
+This website starts with the: index.html, followed by the map ‘assets’, with a map of ‘images’, a map of 'screenshots' and a map of ‘css’. <br>
+In the ’css’ map you will find the page: style.css.
 
 # Credits
 
