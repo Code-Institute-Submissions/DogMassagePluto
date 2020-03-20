@@ -87,14 +87,14 @@ The following wireframes were created using Balsamiq to design the website layou
 
 
 ## Features
-I wanted to create a simple and friendly website, with all the information on one page. 
-
-The header is very ordered, easy to read and easy to understand. The menu will lead you to the right part of the website.
-
-The first three sections are informative about the sorts of massage which are giving. They are place in one big section, because they belong together. 
-
-After this section there will be every time first a title followed by the information.
-In small size the navbar is collapsible and there are less images for less scrolling and more peace.
+The webpage consists of the following features:
+<ul>
+    <li><strong>Navbar</strong> - The navbar stays collapsed on small and medium devices and Bootstrap bar icon is used. The navbar contains links to associated pages: About Me, Consult and Contact
+    <li><strong>Button</strong> - The contactform uses a Bootstrap button
+    <li><strong>Social</strong> media icons - This project uses Bootstrap icons for social media
+    <li><strong>Contact form</strong> - The project uses Bootstrap form features. The form requires to provide first and last name, email address, phone number and message
+    <li><strong>Footer</strong> - simple footer containing links to social media accounts and copyrights
+</ul>
 
 # Technologies 
 
