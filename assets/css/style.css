@@ -104,7 +104,7 @@ header {
     color: #666666;
  }
 
-.title {
+.titles {
     font-family: "helvetica", sans-serif;
     font-weight: 200;
     font-size: 18px;
@@ -114,7 +114,7 @@ header {
     margin-right: 50px;
 }
 
-#titles1, #titles2, #titles3, #titles4, #titles5{
+#titles{
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center; 
@@ -155,7 +155,7 @@ header {
     padding-top: 100px;
  }
 
-#benefits-height1, #benefits-height2, #benefits-height3{
+.benefits-height{
   height: 350px;
 }
 	 
@@ -179,7 +179,7 @@ header {
      padding-top: 100px;
  }
 
-#consult-height1, #consult-height2{
+#consult-height{
   height: 360px;
 }
 
@@ -197,7 +197,7 @@ header {
      padding-top: 100px;
  }
 
- #review-hight1, #review-hight2, #review-hight3{
+ #review-hight{
    height: 300px;
  }
 
@@ -208,7 +208,7 @@ header {
      padding-bottom: 30px;
  }
 
-#contact-text1, #contact-text2{
+#contact-text{
   height: 500px;
 }
 
@@ -258,4 +258,8 @@ footer {
 #footer-details{
     background-color: #E8E8E8;
     padding-top: 30px;
+}
+
+#socialmedia_outline{
+  text-align: center;
 }
