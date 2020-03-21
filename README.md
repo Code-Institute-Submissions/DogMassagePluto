@@ -135,7 +135,7 @@ The webpage consists of the following features:
     <li>Google Chrome Developer Tools for testing different device sizes.
 </ul>
 
-## Testing
+# Testing
 <ul>
     <li><strong>Header</strong><br> 
     The header is responsive to small, medium and large devices.
