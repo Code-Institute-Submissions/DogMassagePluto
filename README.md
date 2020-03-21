@@ -132,36 +132,43 @@ The webpage consists of the following features:
 <ul>
     <li><a href="https://validator.w3.org/">HTML Validator</a> for testing the HTML code.
     <li><a href="https://jigsaw.w3.org/css-validator/">CSS Validator</a> for testing the CSS code.
-    <li>Google Chrome Developer Tools for testing different size devices.
+    <li>Google Chrome Developer Tools for testing different device sizes.
 </ul>
 
 ## Testing
-
-The header is responsive to small, medium and large devices. <br>
-On large devices the title and full menu will be shown, <br>
-while on small and medium devices the title and a collapsible menu will be shown.<br>
-<br>
-The menu links are internal links and will lead to the right part on the website.<br> 
-<br>
-The contact form has required attributes which are needed before submitting the form.<br>
-<br>
-In the footer will be found the social media links, which are external links.<br>
-<br>
-The company name on the fixed header, will lead to the top of the website.<br>
-<br>
-On small devices some pictures are gone for a more user friendly website. <br>
-Each row will be shown vertical instead of horizontal, for better readability.<br>
-<br>
-Tested multiple browser’s (Edge, Chrome, Safari, Internet Explorer, Firefox).<br> 
-And tested multiple small and medium devices (….)
+<ul>
+    <li><strong>Header</strong><br> 
+    The header is responsive to small, medium and large devices.
+    <li><strong>Small and medium devices</strong><br> 
+    On small and medium devices the title and a collapsible menu will be shown.<br>
+    On small devices some pictures are gone for a more user friendly website.<br>
+    Each row will be shown vertical, for better readability.
+    <li><strong>Large devices</strong><br> 
+    On large devices the title and full menu will be shown.<br>
+    Each row will be shown horizontal.
+    <li><strong>Menu links</strong><br>
+    The menu links are internal links and will lead to the right part on the website.
+    <li><strong>Contact form</strong><br>
+    The contact form has required attributes which are needed before submitting the form.
+    <li><strong>Footer</strong><br>
+    In the footer the social media linkswill be found, which are external links.
+    <li><strong>Title</strong><br>  
+    The company name on the fixed header, will lead to the top of the website as an internal link.<br>
+    <li><strong>Tested</strong><br>
+    Tested in multiple browser’s (Edge, Chrome, Safari, Internet Explorer, Firefox).<br> 
+    And tested in multiple small and medium devices (Galaxy S5, Pixel 2, Pixel 2 XL, iPhone 5/SE, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro.)
+</ul>
 
 # Deployment
 I started working on this project in Repl.it because I worked on it from different devices. <br>
 Every time I was on my own laptop I copied everything to GitPod and pushed it to GitHub. <br>
 Like this I also always had an extra backup, when needed. <br>
 <br>
-This website starts with the: index.html, followed by the map ‘assets’, with a map of ‘images’, a map of 'screenshots' and a map of ‘css’. <br>
-In the ’css’ map you will find the page: style.css.
+This website starts with the: index.html, followed by the map ‘assets’, with a map of ‘images’ and a map of ‘css’. <br>
+In the ’css’ map you will find the page: style.css.<br>
+A map called 'mockups' with small, medium and large wireframes.<br>
+a map called 'screenshots' with an image of the used colors and a demo.gif.<br>
+Ending with the README.md.
 
 # Credits
 
