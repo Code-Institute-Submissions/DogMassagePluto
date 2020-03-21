@@ -141,8 +141,7 @@ The webpage consists of the following features:
     ![HTML Validator](screenshots/html_validator3.png)
     ![HTML Validator](screenshots/html_validator4.png)
     ![HTML Validator](screenshots/html_validator5.png)
-    ![CSS Validator](screenshots/css_validator.png)
-    ![Grey&Yellow](screenshots/html_validator1.png)
+    ![CSSValidator](screenshots/cssvalidator.png)
 
 # Testing
 <ul>
