@@ -14,7 +14,7 @@ This website consists of the following sections:
 
 ## Demo 
 Website demo available <a href="https://kimkesdev.github.io/DogMassagePluto">here</a>.
-<br>
+<br><br>
 ![Dog Massage Pluto Demo](screenshots/demo.gif)
 
 # UX Design
@@ -135,13 +135,13 @@ The webpage consists of the following features:
     <li>Google Chrome Developer Tools for testing different device sizes.
 </ul>
 
-### Testing results
-    ![HTML Validator](screenshots/html_validator1.PNG)
-    ![HTML Validator](screenshots/html_validator2.PNG)
-    ![HTML Validator](screenshots/html_validator3.PNG)
-    ![HTML Validator](screenshots/html_validator4.PNG)
-    ![HTML Validator](screenshots/html_validator5.PNG)
-    ![CSS Validator](screenshots/css_validator.PNG)
+## Testing results
+    ![HTML Validator](screenshots/html_validator1.png)
+    ![HTML Validator](screenshots/html_validator2.png)
+    ![HTML Validator](screenshots/html_validator3.png)
+    ![HTML Validator](screenshots/html_validator4.png)
+    ![HTML Validator](screenshots/html_validator5.png)
+    ![CSS Validator](screenshots/css_validator.png)
 
 # Testing
 <ul>
