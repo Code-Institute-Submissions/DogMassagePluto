@@ -12,8 +12,6 @@ This website consists of the following sections:
     <li><strong>Contact</strong> – this section provides al the contact details and a contact form.
 </ol>
 
-![HTML Validator](screenshots/htmlvalidator1.png)
-
 ## Demo 
 Website demo available <a href="https://kimkesdev.github.io/DogMassagePluto">here</a>.
 <br><br>
@@ -135,22 +133,7 @@ The webpage consists of the following features:
     <li><a href="https://validator.w3.org/">HTML Validator</a> for testing the HTML code.
     <li><a href="https://jigsaw.w3.org/css-validator/">CSS Validator</a> for testing the CSS code.
     <li>Google Chrome Developer Tools for testing different device sizes.
-</ul>
-
-## Testing results
-
-    
-
-    ![HTML Validator](screenshots/htmlvalidator2.png)
-
-    ![HTML Validator](screenshots/htmlvalidator3.png)
-
-    ![HTML Validator](screenshots/htmlvalidator4.png)
-    
-    ![HTML Validator](screenshots/htmvalidator5.png)
-    
-    
-    
+</ul>  
 
 # Testing
 <ul>
@@ -176,6 +159,12 @@ The webpage consists of the following features:
     And tested in multiple small and medium devices (Galaxy S5, Pixel 2, Pixel 2 XL, iPhone 5/SE, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro.)
 </ul>
 
+## Testing results
+![HTML Validator](screenshots/htmlvalidator1.png)
+![HTML Validator](screenshots/htmlvalidator2.png)
+![HTML Validator](screenshots/htmlvalidator3.png)
+![HTML Validator](screenshots/htmlvalidator4.png)
+![HTML Validator](screenshots/htmvalidator5.png)
 ![CSSValidator](screenshots/cssvalidator.png)
 
 # Deployment
