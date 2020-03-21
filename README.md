@@ -1,5 +1,5 @@
 # Dog Massage Pluto
-This website is designed for dog-owners who want to improve their dog’s health and for who wants to know more about dog massage. <br><br>
+This website is designed for dog-owners who want to improve their dog’s health and for those who want to know more about dog massage. <br><br>
 Read about the sorts of dog massages available, it’s benefits, my story, client stories, more information about the consult, the contact details and a contact form.
 
 This website consists of the following sections:
@@ -9,7 +9,7 @@ This website consists of the following sections:
     <li><strong>About Me</strong> – this section tells a little bit of my story.
     <li><strong>Consult</strong> – this section provides all the information about a consult.
     <li><strong>Reviews</strong> – this section shows some reviews of previous clients.
-    <li><strong>Contact</strong> – this section provides al the contact details and a contact form.
+    <li><strong>Contact</strong> – this section provides all the contact details and a contact form.
 </ol>
 
 ## Demo 
@@ -21,7 +21,7 @@ Website demo available <a href="https://kimkesdev.github.io/DogMassagePluto">her
 I wanted to create a simple and friendly website with light colours and with all the information on one page, so that it becomes a scrollable website.
 
 ## User Stories
-<strong>User Story 1:</strong> Owner of an old dog with stiff muscles in his legs, who would like to know what he can do for his dog to make the less stiff.
+<strong>User Story 1:</strong> Owner of an old dog with stiff muscles in his legs, who would like to know what he can do for his dog to make the muscles less stiff.
 <br><br>
 <strong>User Story 2:</strong> Owner of a stressed dog when seeing other dogs, who wants to know how to ease the tension of his dog.
 <br><br>
@@ -46,7 +46,7 @@ Massage types, all benefits, about me, consult, contact and social media links.
 ## Structure
 <ul>
     <li><strong>Header</strong> with the title and a menu.
-    <li><strong>Types of massage</strong> with its benefits and a list with all benefits.
+    <li><strong>Types of massage</strong> with it's benefits and a list with all the benefits.
     <li><strong>About me</strong> section with a little bit about my working life.
     <li><strong>Consult</strong> section with information about a consult.
     <li><strong>Reviews</strong> section with some reviews of happy dog-owners who’s dog had a massage session.
@@ -59,7 +59,7 @@ Massage types, all benefits, about me, consult, contact and social media links.
     <li><strong>Header</strong><br>
     Light grey background. Left the title, right the menu.
     <li><strong>Massage types</strong><br>
-    Soft yellow background, each section with an image next to the text, text starting left on the first section, each type op massage has the opposite text-image combination.
+    Soft yellow background, each section with an image next to the text, text starting left on the first section, each type of massage has the opposite text-image combination.
     <li><strong>All benefits</strong><br>
     Title: light grey background, float in the centre. <br>
     Text: soft yellow background, three rows with benefits.
@@ -75,7 +75,7 @@ Massage types, all benefits, about me, consult, contact and social media links.
     <li><strong>Contact</strong><br>
     Title: light grey background, float in the centre.<br>
     Text: soft yellow background, three rows with information. <br>
-    Right section: contact information, centre section: contact form, right section: image.
+    Left section: contact information, centre section: contact form, right section: image.
 </ul>
 <ul>
     <li>All title font: same font family
@@ -106,11 +106,11 @@ The following wireframes were created using Balsamiq to design the website layou
 ## Features
 The webpage consists of the following features:
 <ul>
-    <li><strong>Navbar</strong> - The navbar stays collapsed on small and medium devices and Bootstrap bar icon is used. <br>The navbar contains links to associated pages: About Me, Consult and Contact
-    <li><strong>Button</strong> - The contactform uses a Bootstrap button
-    <li><strong>Social</strong> media icons - This project uses Bootstrap icons for social media
-    <li><strong>Contact form</strong> - The project uses Bootstrap form features. <br>The form requires to provide first and last name, email address, phone number and message
-    <li><strong>Footer</strong> - simple footer containing links to social media accounts and copyrights
+    <li><strong>Navbar</strong> - The navbar stays collapsed on small and medium devices and a Bootstrap bar icon is used. <br>The navbar contains links to associated pages: About Me, Consult and Contact.
+    <li><strong>Button</strong> - The contactform uses a Bootstrap button.
+    <li><strong>Social media icons</strong> - This project uses Bootstrap icons for social media.
+    <li><strong>Contact form</strong> - The project uses Bootstrap form features. <br>The form requires to provide first and last name, email address, phone number and message.
+    <li><strong>Footer</strong> - simple footer containing links to social media accounts and copyrights.
 </ul>
 
 # Technologies 
@@ -124,7 +124,7 @@ The webpage consists of the following features:
 ## Frameworks / Tools / Libraries
 <ul>
     <li><a href="https://balsamiq.com/">Balsamiq</a> for the mockups.
-    <li><a href="https://getbootstrap.com/">Bootstrap</a> for the collapsible navbar en the footer icons.
+    <li><a href="https://getbootstrap.com/">Bootstrap</a> for the collapsible navbar, button and the footer icons.
     <li><a href="https://fonts.google.com/">Google Fonts</a> for the font type Righteous.
 </ul>
 
@@ -151,7 +151,7 @@ The webpage consists of the following features:
     <li><strong>Contact form</strong><br>
     The contact form has required attributes which are needed before submitting the form.
     <li><strong>Footer</strong><br>
-    In the footer the social media linkswill be found, which are external links.
+    In the footer the social media links will be found, which are external links.
     <li><strong>Title</strong><br>  
     The company name on the fixed header, will lead to the top of the website as an internal link.<br>
     <li><strong>Tested</strong><br>
@@ -175,7 +175,7 @@ Like this I also always had an extra backup, when needed. <br>
 This website starts with the: index.html, followed by the map ‘assets’, with a map of ‘images’ and a map of ‘css’. <br>
 In the ’css’ map you will find the page: style.css.<br>
 A map called 'mockups' with small, medium and large wireframes.<br>
-a map called 'screenshots' with an image of the used colors and a demo.gif.<br>
+A map called 'screenshots' with an image of the used colors and a demo.gif.<br>
 Ending with the README.md.
 
 # Credits
