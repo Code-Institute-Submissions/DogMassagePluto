@@ -131,16 +131,17 @@ The webpage consists of the following features:
 ## Testing
 <ul>
     <li><a href="https://validator.w3.org/">HTML Validator</a> for testing the HTML code.
+    <li><a href="https://jigsaw.w3.org/css-validator/">CSS Validator</a> for testing the CSS code.
+    <li>Google Chrome Developer Tools for testing different device sizes.
+</ul>
+
+### Testing results
     ![HTML Validator](screenshots/html_validator1.PNG)
     ![HTML Validator](screenshots/html_validator2.PNG)
     ![HTML Validator](screenshots/html_validator3.PNG)
     ![HTML Validator](screenshots/html_validator4.PNG)
     ![HTML Validator](screenshots/html_validator5.PNG)
-    <li><a href="https://jigsaw.w3.org/css-validator/">CSS Validator</a> for testing the CSS code.
     ![CSS Validator](screenshots/css_validator.PNG)
-
-    <li>Google Chrome Developer Tools for testing different device sizes.
-</ul>
 
 # Testing
 <ul>
