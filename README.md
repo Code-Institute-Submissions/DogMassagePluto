@@ -22,17 +22,17 @@ I wanted to create a simple and friendly website with light colours and with all
 
 ## User Stories
 <strong>User Story 1:</strong> Owner of an old dog with stiff muscles in his legs, who would like to know what he can do for his dog to make the less stiff.
-<br>
+<br><br>
 <strong>User Story 2:</strong> Owner of a stressed dog when seeing other dogs, who wants to know how to ease the tension of his dog.
-<br>
+<br><br>
 <strong>User Story 3:</strong> A sportive person with a sportive dog, want to know how he can help his dog with a faster recovery of the muscles.
-<br>
+<br><br>
 <strong>User Story 4:</strong> Owner of a dog with pain after a accident, what can be done to relieve the pain.
-<br>
+<br><br>
 <strong>User Story 5:</strong> Owner of a dog who is afraid of people, how massage can help the dog to be less anxious.
-<br>
+<br><br>
 <strong>User Story 6:</strong> Owner of a dog with  arthritis, how massage can release tension.
-<br>
+<br><br>
 <strong>User Story 7:</strong> Owner of a senior dog, who wants to reduce the need of medicine.
 <br>
 
