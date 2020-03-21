@@ -44,15 +44,13 @@ The goal for this website is to show how a dog’s health can be improved throug
 Massage types, all benefits, about me, consult, contact and social media links.
 
 ## Structure
-<ul>
-    <li><strong>Header</strong> with title and a menu.
-    <li><strong>Types of massage</strong> with its benefits and a list with all benefits.
-    <li>An <strong>‘about me’</strong> section with a little bit about my working life.
-    <li>A section with information about a <strong>consult</strong>.
-    <li>A section with some <strong>reviews</strong> of happy dog-owners who’s dog had a massage session.
-    <li>A section with all the <strong>contact</strong> details and a contact form.
-    <li>The <strong>footer</strong> will provide the social media links.
-</ul>
+<strong>Header</strong> with title and a menu.<br>
+<strong>Types of massage</strong> with its benefits and a list with all benefits.<br>
+<strong>About me</strong> section with a little bit about my working life.<br>
+<strong>Consult</strong> section with information about a consult.<br>
+<strong>Reviews</strong> section with some reviews of happy dog-owners who’s dog had a massage session.<br>
+<strong>Contact</strong> section with all the contact details and a contact form.<br>
+<strong>Footer</strong> with the social media links.<br>
 
 ## Skeleton
 <ul>
