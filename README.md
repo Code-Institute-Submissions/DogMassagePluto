@@ -45,29 +45,36 @@ Massage types, all benefits, about me, consult, contact and social media links.
 
 ## Structure
 <ul>
-    <li><strong>Header</strong> with the title and a menu.<br><br>
-    <li><strong>Types of massage</strong> with its benefits and a list with all benefits.<br><br>
-    <li><strong>About me</strong> section with a little bit about my working life.<br><br>
-    <li><strong>Consult</strong> section with information about a consult.<br><br>
-    <li><strong>Reviews</strong> section with some reviews of happy dog-owners who’s dog had a massage session.<br><br>
-    <li><strong>Contact</strong> section with all the contact details and a contact form.<br><br>
+    <li><strong>Header</strong> with the title and a menu.
+    <li><strong>Types of massage</strong> with its benefits and a list with all benefits.
+    <li><strong>About me</strong> section with a little bit about my working life.
+    <li><strong>Consult</strong> section with information about a consult.
+    <li><strong>Reviews</strong> section with some reviews of happy dog-owners who’s dog had a massage session.
+    <li><strong>Contact</strong> section with all the contact details and a contact form.
     <li><strong>Footer</strong> with the social media links.
 </ul>
 
 ## Skeleton
 <ul>
-    <li><strong>Header</strong>: light grey background. Left the title, right the menu.
-    <li><strong>Massage types</strong>: soft yellow background, each section with an image next to the text, text starting left on the first section, each type op massage has the opposite text-image combination.<br>
-    <li>Title <strong>all benefits</strong>: light grey background, float in the centre. <br>
-    Text all benefits: soft yellow background, three rows with benefits.
-    <li>Title <strong>about me</strong>: light grey background, float in the centre. <br>
-    Text about me: soft yellow background, text left, image right.
-    <li>Title <strong>consult</strong>: light grey background, flout in the centre. <br>
-    Text consult: soft yellow background, text right, image left, opposite of the above.
-    <li>Title <strong>reviews</strong>: light grey background, float in the centre.<br>
-    Text reviews: soft yellow background, three rows with reviews.
-    <li>Title <strong>contact</strong>: light grey background, float in the centre.<br>
-    Text contact: soft yellow background, three rows with information. <br>
+    <li><strong>Header</strong><br>
+    Light grey background. Left the title, right the menu.
+    <li><strong>Massage types</strong><br>
+    Soft yellow background, each section with an image next to the text, text starting left on the first section, each type op massage has the opposite text-image combination.
+    <li><strong>All benefits</strong><br>
+    Title: light grey background, float in the centre. <br>
+    Text: soft yellow background, three rows with benefits.
+    <li><strong>About me</strong><br>
+    Title: light grey background, float in the centre. <br>
+    Text: soft yellow background, text left, image right.
+    <li><strong>Consult</strong><br>
+    Title light grey background, flout in the centre. <br>
+    Text: soft yellow background, text right, image left, opposite of the above.
+    <li><strong>Reviews</strong><br>
+    Title: light grey background, float in the centre.<br>
+    Text: soft yellow background, three rows with reviews.
+    <li><strong>Contact</strong><br>
+    Title: light grey background, float in the centre.<br>
+    Text: soft yellow background, three rows with information. <br>
     Right section: contact information, centre section: contact form, right section: image.
 </ul>
 <ul>
