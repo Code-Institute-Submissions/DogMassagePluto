@@ -136,12 +136,13 @@ The webpage consists of the following features:
 </ul>
 
 ## Testing results
-    ![HTML Validator](screenshots/html_validator1.png)
-    ![HTML Validator](screenshots/html_validator2.png)
-    ![HTML Validator](screenshots/html_validator3.png)
-    ![HTML Validator](screenshots/html_validator4.png)
-    ![HTML Validator](screenshots/html_validator5.png)
+    ![HTML Validator](screenshots/htmlvalidator1.png)
+    ![HTML Validator](screenshots/htmlvalidator2.png)
+    ![HTML Validator](screenshots/htmlvalidator3.png)
+    ![HTML Validator](screenshots/htmlvalidator4.png)
+    ![HTML Validator](screenshots/htmvalidator5.png)
     ![CSSValidator](screenshots/cssvalidator.png)
+    ![Grey&Yellow](screenshots/colors.png)
 
 # Testing
 <ul>
