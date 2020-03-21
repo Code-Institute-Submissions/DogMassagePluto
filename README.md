@@ -136,13 +136,22 @@ The webpage consists of the following features:
 </ul>
 
 ## Testing results
+
     ![HTML Validator](screenshots/htmlvalidator1.png)
+
     ![HTML Validator](screenshots/htmlvalidator2.png)
+
     ![HTML Validator](screenshots/htmlvalidator3.png)
+
     ![HTML Validator](screenshots/htmlvalidator4.png)
+    
     ![HTML Validator](screenshots/htmvalidator5.png)
+    
     ![CSSValidator](screenshots/cssvalidator.png)
+    
     ![Grey&Yellow](screenshots/colors.png)
+
+    ![Dog Massage Pluto Demo](screenshots/demo.gif)
 
 # Testing
 <ul>
