@@ -12,6 +12,8 @@ This website consists of the following sections:
     <li><strong>Contact</strong> – this section provides al the contact details and a contact form.
 </ol>
 
+![HTML Validator](screenshots/htmlvalidator1.png)
+
 ## Demo 
 Website demo available <a href="https://kimkesdev.github.io/DogMassagePluto">here</a>.
 <br><br>
@@ -137,7 +139,7 @@ The webpage consists of the following features:
 
 ## Testing results
 
-    ![HTML Validator](screenshots/htmlvalidator1.png)
+    
 
     ![HTML Validator](screenshots/htmlvalidator2.png)
 
@@ -147,11 +149,8 @@ The webpage consists of the following features:
     
     ![HTML Validator](screenshots/htmvalidator5.png)
     
-    ![CSSValidator](screenshots/cssvalidator.png)
     
-    ![Grey&Yellow](screenshots/colors.png)
-
-    ![Dog Massage Pluto Demo](screenshots/demo.gif)
+    
 
 # Testing
 <ul>
@@ -176,6 +175,8 @@ The webpage consists of the following features:
     Tested in multiple browser’s (Edge, Chrome, Safari, Internet Explorer, Firefox).<br> 
     And tested in multiple small and medium devices (Galaxy S5, Pixel 2, Pixel 2 XL, iPhone 5/SE, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro.)
 </ul>
+
+![CSSValidator](screenshots/cssvalidator.png)
 
 # Deployment
 I started working on this project in Repl.it because I worked on it from different devices. <br>
