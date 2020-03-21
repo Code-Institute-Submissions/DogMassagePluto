@@ -25,9 +25,9 @@ I wanted to create a simple and friendly website with light colours and with all
 <br><br>
 <strong>User Story 2:</strong> Owner of a stressed dog when seeing other dogs, who wants to know how to ease the tension of his dog.
 <br><br>
-<strong>User Story 3:</strong> A sportive person with a sportive dog, want to know how he can help his dog with a faster recovery of the muscles.
+<strong>User Story 3:</strong> A sportive person with a sportive dog, who wants to know how he can help his dog with a faster recovery of the muscles.
 <br><br>
-<strong>User Story 4:</strong> Owner of a dog with pain after a accident, what can be done to relieve the pain.
+<strong>User Story 4:</strong> Owner of a dog with pain after an accident, what can be done to relieve the pain.
 <br><br>
 <strong>User Story 5:</strong> Owner of a dog who is afraid of people, how massage can help the dog to be less anxious.
 <br><br>
