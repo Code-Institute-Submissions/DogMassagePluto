@@ -164,7 +164,7 @@ The webpage consists of the following features:
 ![HTML Validator](screenshots/htmlvalidator2.png)
 ![HTML Validator](screenshots/htmlvalidator3.png)
 ![HTML Validator](screenshots/htmlvalidator4.png)
-![HTML Validator](screenshots/htmvalidator5.png)
+![HTML Validator](screenshots/htmlvalidator5.png)
 ![CSSValidator](screenshots/cssvalidator.png)
 
 # Deployment
