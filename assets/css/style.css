@@ -1,18 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
 
-/* common */
-
-.bg-color-name-title {
-     background-color: #f9eee2;
-}
-
 body{
    background-color: white;
    padding-top: 109px;
 }
 
-
- h1, h2, h3, h4, h5{
+ h1, h2, h4{
      font-family: Righteous;
      letter-spacing: 3px;
      color: #666666;
@@ -30,7 +23,6 @@ header {
 #logo{
     float: left;
     margin-left: 40px;	  
-    color: #666666;
 }
 
 .navbar-brand{
@@ -68,9 +60,9 @@ header {
      border-bottom: 1px solid #666666;
 }
 
-@media only screen and (max-width: 600px) {
-  .navbar-brand {
-    font-size: 70%;
+@media only screen and (max-width: 900px) {
+  #logo {
+    font-size: 140%;
   }
   #menu {
     font-size: 100%;
@@ -78,43 +70,28 @@ header {
   }
   #copyright{
     font-size: 120%;
+  }  
+  .social-links {
+    font-size: 10px;
   }
-  #contact-title{
-    font-size: 105%;
-  }
-  .list-inline-item{
-    height: 20px;
-    width: 20px;
-    padding: 20px;
-  }
-  
 }
 
+/* algemeen */
 
-/* body common */
-
-
-.heading {
-   margin-left: 50px;
-}
-
-.name {
-    font-family: "Righteous", sans-serif;
-    margin-top: 50px;
-    color: #666666;
+#padding-title{
+    padding-top: 100px;
  }
 
-.title {
+.column-color{
+    background-color: #f9eee2;
+    padding: 30px 30px 30px 30px;
     font-family: "helvetica", sans-serif;
     font-weight: 200;
     font-size: 18px;
-    margin-top: 20px;
-    margin-bottom: 40px;
     color: #666666;
-    margin-right: 50px;
 }
 
-#titles{
+#title{
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center; 
@@ -122,8 +99,7 @@ header {
 }
 
 
-
-/* massages */
+/* images */
 
 .logo1 {
      background: url("../images/stress.jpg");
@@ -148,23 +124,7 @@ header {
      background-size: cover;
      min-height: 250px;
 }
-	 
- /* benefits */
 
-#benefits{
-    padding-top: 100px;
- }
-
-.benefits-height{
-  height: 350px;
-}
-	 
- /* about me */
-
-#aboutme{
-     padding-top: 100px;
- }
-	 
 .logo4 {
      background: url("../images/aboutme.jpg");
      background-position: center;
@@ -172,16 +132,6 @@ header {
      background-size: cover;
      min-height: 300px;
  }
-
-  /* consult */
-
-#consult{
-     padding-top: 100px;
- }
-
-#consult-height{
-  height: 360px;
-}
 
 .logo5 {
      background: url("../images/consult.jpg");
@@ -191,33 +141,6 @@ header {
      min-height: 360px;
 }
 
-/* reviews */
-
-#reviews{
-     padding-top: 100px;
- }
-
- #review-hight{
-   height: 300px;
- }
-
-/* contact */
-
-#contact{
-     padding-top: 100px;
-     padding-bottom: 30px;
- }
-
-#contact-text{
-  height: 500px;
-}
-
-.button{
-    background: #87ea55;
-    padding: 13px 29px;
-    border-radius:  15px;
-  }
-
 .logo6 {
      background: url("../images/contact.jpg");
      background-position: center;
@@ -226,40 +149,66 @@ header {
      min-height: 360px;
 }
 
-form{
-    padding-bottom: 10px;
-    padding-top: 10px;
+/* about me */
+
+#aboutme{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* consult */
+
+#consultrow1{
+  padding-left: 20px;
+}
+
+#consultrow2{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* reviews */
+
+ .review-height{
+    border: 1px solid #E8E8E8;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    background-color: #E8E8E8;
+    text-align: justify;
+    font-family: "helvetica", sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    color: #666666;
+    display: flex;
+ }
+
+/* contact */
+
+#contactrow1{
+  padding-left: 20px;
+}
+
+#contactrow2{
+  padding-left: 20px;
 }
 
  /* footer */
 
 footer {
-     min-height: 75px;
-     margin: 0;
-     padding: 30px;
-     height: 75px;   
-     width: 100%;
-}
-
-.social-links {
-     padding-bottom: 15px;
-     width: 100%;
-}
-
-.social-links li a i {
-     letter-spacing: 50px;
-     padding: 15px;
-     font-size: 40px;
-     line-height: 7px;
-     text-align: center;
-     width: 100%;
-}
-
-#footer-details{
+    margin: 0;
     background-color: #E8E8E8;
+    line-height: 30px;
     padding-top: 30px;
 }
 
-#socialmedia_outline{
-  text-align: center;
+#copyright{
+    padding-left: 40px;
+}
+
+.social-links {
+    letter-spacing: 40px;
 }
