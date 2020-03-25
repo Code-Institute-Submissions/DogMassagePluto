@@ -71,7 +71,7 @@ Massage types, all benefits, about me, consult, contact and social media links.
     Text: soft yellow background, text right, image left, opposite of the above.
     <li><strong>Reviews</strong><br>
     Title: light grey background, float in the centre.<br>
-    Text: soft yellow background, three rows with reviews.
+    Text: soft yellow background, with the text in light grey, three rows with reviews.
     <li><strong>Contact</strong><br>
     Title: light grey background, float in the centre.<br>
     Text: soft yellow background, three rows with information. <br>
@@ -160,11 +160,7 @@ The webpage consists of the following features:
 </ul>
 
 ## Testing results
-![HTML Validator](screenshots/htmlvalidator1.png)
-![HTML Validator](screenshots/htmlvalidator2.png)
-![HTML Validator](screenshots/htmlvalidator3.png)
-![HTML Validator](screenshots/htmlvalidator4.png)
-![HTML Validator](screenshots/htmlvalidator5.png)
+![HTML Validator](screenshots/htmlvalidator.png)
 ![CSSValidator](screenshots/cssvalidator.png)
 
 # Deployment
