@@ -78,7 +78,7 @@ header {
 
 /* algemeen */
 
-#padding-title{
+.padding-title{
     padding-top: 100px;
  }
 
@@ -91,7 +91,7 @@ header {
     color: #666666;
 }
 
-#title{
+.title{
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center; 
