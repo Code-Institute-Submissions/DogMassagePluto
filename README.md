@@ -177,27 +177,27 @@ Ending with the README.md.
 ## New Repository
 The following steps show how I created my website in GitHub and GitPod:
 <ol>
-    <li>In GitHub I clicked the green button with 'New', what creates a new repository;
-    <li>I clicked the green button 'GitPod', to open my new repository in GitPod;
-    <li>I added new folders and files by clicking 'File', followed by 'New Folder' or 'New File';
-    <li>When a part was finished, I selected 'File', and 'Save' or Ctrl+s;
-    <li>Than I clicked on 'Source Control: Git';
-    <li>Followed by filling in the Message name for this commit;
-    <li>Than I pressed on the '+' icon to stage all changes;
-    <li>On the top you see a 'V' icon, which I clicked for the commit;
-    <li>On the right side I clicked the cat icon which is called 'Pull Request';
-    <li>A collored pop-up shown with a blue button 'Push', which I clicked on, to push the commit to GitHub;
+    <li>In GitHub I clicked the green button with <strong>New</strong>, which creates a new repository;
+    <li>I clicked the green button <strong>GitPod</strong>, to open my new repository in GitPod;
+    <li>I added new folders and files by clicking <strong>File</strong>, followed by <strong>New Folder</strong> or <strong>New File</strong>;
+    <li>When a part was finished, I selected <strong>File</strong>, and <strong>Save</strong> or Ctrl+s;
+    <li>Than I clicked on <strong>Source Control: Git</strong>;
+    <li>Followed by filling in the <strong>Message name</strong> for this commit;
+    <li>Than I pressed on the <strong>+ icon</strong> to stage all changes;
+    <li>On the top you see a <strong>V icon</strong>, which I clicked for the commit;
+    <li>On the right side I clicked the cat icon which is called <strong>Pull Request</strong>;
+    <li>A collored pop-up shown with a blue button <strong>Push</strong>, which I clicked on, to push the commit to GitHub;
     <li>In GitHub I can see all my folders and files with the Message name of my last changes.
 </ol>
 
 ## Deployment in GitHub
 The following steps show how my website was deployed in GitHub:
 <ol>
-    <li>I logged in to GitHub and selected my repository;
-    <li>I clicked on the tab 'Settings';
-    <li>I scrolled down to the GitHub Pages section;
-    <li>On the Select source drop-down menu I selected 'master branch' as my GitHub Pages publishing source;
-    <li>Then I clicked 'Save'.
+    <li>I logged in to <strong>GitHub</strong> and selected my repository;
+    <li>I clicked on the tab <strong>Settings</strong>;
+    <li>I scrolled down to the <strong>GitHub Pages</strong> section;
+    <li>On the Select source drop-down menu I selected <strong>master branch</strong> as my GitHub Pages publishing source;
+    <li>Then I clicked <strong>Save</strong>.
 </ol>
 The deployed site will update automatically upon new commits to the master branch. <br>
 Note: the landing page must be named index.html.
@@ -206,12 +206,12 @@ Note: the landing page must be named index.html.
 The following steps show how you can clone my repository:
 <ol>
     <li>In GitHub go to <a href="https://github.com/kimkesdev/DogMassagePluto">my repository</a>;
-    <li>Click on the green 'Clone or Download' button;
+    <li>Click on the green <strong>Clone or Download</strong> button;
     <li>In the Clone with HTTPS section you can copy the repository url;
     <li>Open the terminal of your IDE;
-    <li>Type 'Git Clone' into the location where you want this website to be cloned;
+    <li>Type <strong>Git Clone</strong> into the location where you want this website to be cloned;
     <li>Paste the copied url in step 3;
-    <li>Your local repository will be created when you press 'enter'.
+    <li>Your local repository will be created when you press <strong>enter</strong>.
 </ol>
 
 # Credits
