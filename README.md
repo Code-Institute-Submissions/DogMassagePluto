@@ -175,19 +175,35 @@ A map called 'screenshots' with an image of the used colors and a demo.gif.<br>
 Ending with the README.md.
 
 ## New Repository
-The following steps shows how I created my website in GitHub and GitPod:
+The following steps show how I created my website in GitHub and GitPod:
 <ol>
-    <li>In GitHub click the green button with 'New', what creates a new repository;
-    <li>Click the green button 'GitPod', to open your new repository in GitPod;
-    <li>At a new folder or file by clicking 'File', followed by 'New Folder' or 'New File';
-    <li>Type all your information and click 'File', 'Save' or Ctrl+s;
-    <li>Click on 'Source Control: Git', fill in a Message name for this commit, press on the '+' icon to stage all changes and the last step the 'V' icon for commit;
-    <li>On the right side press the cat icon 'Pull Request' and click on the blue button with 'Push';
-    <li>In GitHub you can see my last changes.
+    <li>In GitHub I clicked the green button with 'New', what creates a new repository;
+    <li>I clicked the green button 'GitPod', to open my new repository in GitPod;
+    <li>I added new folders and files by clicking 'File', followed by 'New Folder' or 'New File';
+    <li>When a part was finished, I selected 'File', and 'Save' or Ctrl+s;
+    <li>Than I clicked on 'Source Control: Git';
+    <li>Followed by filling in the Message name for this commit;
+    <li>Than I pressed on the '+' icon to stage all changes;
+    <li>On the top you see a 'V' icon, which I clicked for the commit;
+    <li>On the right side I clicked the cat icon which is called 'Pull Request';
+    <li>A collored pop-up shown with a blue button 'Push', which I clicked on, to push the commit to GitHub;
+    <li>In GitHub I can see all my folders and files with the Message name of my last changes.
 </ol>
 
+## Deployment in GitHub
+The following steps show how my website was deployed in GitHub:
+<ol>
+    <li>I logged in to GitHub and selected my repository;
+    <li>I clicked on the tab 'Settings';
+    <li>I scrolled down to the GitHub Pages section;
+    <li>On the Select source drop-down menu I selected 'master branch' as my GitHub Pages publishing source;
+    <li>Then I clicked 'Save'.
+</ol>
+The deployed site will update automatically upon new commits to the master branch. <br>
+Note: the landing page must be named index.html.
+
 ## Clone my Repository
-The following steps shows how you can clone my repository:
+The following steps show how you can clone my repository:
 <ol>
     <li>In GitHub go to <a href="https://github.com/kimkesdev/DogMassagePluto">my repository</a>;
     <li>Click on the green 'Clone or Download' button;
