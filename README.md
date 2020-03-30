@@ -174,17 +174,30 @@ A map called 'mockups' with small, medium and large wireframes.<br>
 A map called 'screenshots' with an image of the used colors and a demo.gif.<br>
 Ending with the README.md.
 
-## New Respository
+## New Repository
 The following steps shows how I created my website in GitHub and GitPod:
 <ol>
-    <li>In GitHub click the green button with 'New', what creates a new respository;
-    <li>Click the green button 'GitPod', to open your new respository in GitPod;
+    <li>In GitHub click the green button with 'New', what creates a new repository;
+    <li>Click the green button 'GitPod', to open your new repository in GitPod;
     <li>At a new folder or file by clicking 'File', followed by 'New Folder' or 'New File';
     <li>Type all your information and click 'File', 'Save' or Ctrl+s;
     <li>Click on 'Source Control: Git', fill in a Message name for this commit, press on the '+' icon to stage all changes and the last step the 'V' icon for commit;
-    <li>On the right side press the cat icon 'Pull Request' and click on your respository name;
+    <li>On the right side press the cat icon 'Pull Request' and click on the blue button with 'Push';
     <li>In GitHub you can see my last changes.
 </ol>
+
+## Clone my Repository
+The following steps shows how you can clone my repository:
+<ol>
+    <li>In GitHub go to <a href="https://github.com/kimkesdev/DogMassagePluto">my repository</a>;
+    <li>Click on the green 'Clone or Download' button;
+    <li>In the Clone with HTTPS section you can copy the repository url;
+    <li>Open the terminal of your IDE;
+    <li>Type 'Git Clone' into the location where you want this website to be cloned;
+    <li>Paste the copied url in step 3;
+    <li>Your local repository will be created when you press 'enter'.
+</ol>
+
 # Credits
 
 ## Content
