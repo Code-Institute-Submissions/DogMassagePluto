@@ -213,7 +213,7 @@ The following steps show how you can clone my repository:
     <li>Type <strong>Git Clone</strong> into the location where you want this website to be cloned;
     <li>Paste the copied url in step 3;
     <li>Your local repository will be created when you press <strong>enter</strong>;
-    <li>Make the changes you want and push them to the <strong>Master Default branch</strong> with a good Massage name.
+    <li>Make the changes you want and push them to the <strong>Master Default branch</strong> with a good message name.
 </ol>
 
 # Credits
