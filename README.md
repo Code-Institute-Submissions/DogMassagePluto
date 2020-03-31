@@ -214,6 +214,14 @@ The following steps show how you can clone my repository:
     <li>Your local repository will be created when you press <strong>enter</strong>.
 </ol>
 
+## Contributing to my project
+If you want to contribute to my project, you can follow the next steps:
+<ol>
+    <li>In GitHub go to <a href="https://github.com/kimkesdev/DogMassagePluto">my repository</a>;
+    <li>Press the <strong>Fork</strong> button on the right top of the page, to create a copy of the repository in your own GitHub account;
+    <li>
+</ol>
+
 # Credits
 
 ## Content
