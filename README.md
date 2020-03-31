@@ -202,24 +202,18 @@ The following steps show how my website was deployed in GitHub:
 The deployed site will update automatically upon new commits to the master branch. <br>
 Note: the landing page must be named index.html.
 
-## Clone my Repository
+## Clone and contribute my Repository
 The following steps show how you can clone my repository:
 <ol>
     <li>In GitHub go to <a href="https://github.com/kimkesdev/DogMassagePluto">my repository</a>;
-    <li>Click on the green <strong>Clone or Download</strong> button;
+    <li>Press the <strong>Fork</strong> button on the right top of the page, to create a copy of the repository in your own GitHub account;
+    <li>On your GitHub account, open the forked repository and click on the green <strong>Clone or Download</strong> button;
     <li>In the Clone with HTTPS section you can copy the repository url;
     <li>Open the terminal of your IDE;
     <li>Type <strong>Git Clone</strong> into the location where you want this website to be cloned;
     <li>Paste the copied url in step 3;
-    <li>Your local repository will be created when you press <strong>enter</strong>.
-</ol>
-
-## Contributing to my project
-If you want to contribute to my project, you can follow the next steps:
-<ol>
-    <li>In GitHub go to <a href="https://github.com/kimkesdev/DogMassagePluto">my repository</a>;
-    <li>Press the <strong>Fork</strong> button on the right top of the page, to create a copy of the repository in your own GitHub account;
-    <li>
+    <li>Your local repository will be created when you press <strong>enter</strong>;
+    <li>Make the changes you want and push them to the <strong>Master Default branch</strong> with a good Massage name.
 </ol>
 
 # Credits
