@@ -202,7 +202,7 @@ The following steps show how my website was deployed in GitHub:
 The deployed site will update automatically upon new commits to the master branch. <br>
 Note: the landing page must be named index.html.
 
-## Clone and contribute my Repository
+## Clone and contribute
 The following steps show how you can clone my repository:
 <ol>
     <li>In GitHub go to <a href="https://github.com/kimkesdev/DogMassagePluto">my repository</a>;
